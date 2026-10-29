@@ -1,3 +1,9 @@
-print("Hello, world!")
-print("I'm building my developer skills.")
-print("AI, cloud, security, and crypto — here we come!")
+name = "gagadcoder"
+projects_completed = 1
+
+print("Developer:", name)
+
+print("Projects completed:", projects_completed)
+
+next_goal = "Build an AI research assistant"
+print("Next goal:", next_goal)
